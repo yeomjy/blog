@@ -21,8 +21,10 @@ timezone: Asia/Seoul
 title: Junyoung Yeom's Blog # the main title
 
 tagline: # it will display as the sub-title
+  Computer Science, Mathematics, Machine Learning
 
 description: >- # used by seo meta and the atom feed
+  Computer Science, Mathematics, Machine Learning
 
 # fill in the protocol & hostname for your site, e.g., 'https://username.github.io'
 url: "https://yeomjy.com"
@@ -79,7 +81,7 @@ theme_mode: # [light|dark]
 img_cdn:
 
 # the avatar on sidebar, support local or CORS resources
-avatar:
+avatar: "assets/img/profile.jpeg"
 
 # boolean type, the global switch for ToC in posts.
 toc: true
