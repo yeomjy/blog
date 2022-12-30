@@ -3,11 +3,12 @@
 icon: fas fa-info-circle
 order: 4
 ---
-I am an undergraduate student majoring in computer science at Seoul National University.
+
+I am an undergraduate student majoring in computer science and mathematics at Seoul National University.
 
 I'm interested in mathematical theory of machine learning, including generalization of deep neural network,
-optimization, GNN, RL.
-I also interested in distributed computing, parallel computing, and backend programming and environments.
+optimization, geometric deep learning, GNN, RL.
+I am also interested in distributed computing, parallel computing, and backend programming and environments.
 
 I write some posts about these topics to this blog.
 
