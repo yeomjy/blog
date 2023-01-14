@@ -1,5 +1,8 @@
 #  The contact options.
 
+- type: homepage
+  icon: "fa fa-home"
+  url: "https://yeomjy.com"
 - type: github
   icon: "fab fa-github"
 # -
