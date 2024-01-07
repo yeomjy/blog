@@ -4,8 +4,8 @@ icon: fas fa-info-circle
 order: 4
 ---
 
-My name is Junyoung Yeom. I'm an undergraduate student majoring in Computer Science and Engineering. I'm also double majoring in mathematics.
+My name is Junyoung Yeom. I'm an undergraduate student majoring in Computer Science and Mathematics.
 
-I'm interested in Reinforcement Learning, Machine Learning for Combinatorial Optimization(via RL), Self-Supervised Learning, Causal Structure Learning, and Geometric Deep Learning.
+My research interests lie in the intersection of mathematics, deep learning, and theoretical computer science. Specifically, I'm interested in Neural Combinatorial Optimization, Geometric Deep Learning, Machine Learning Theory, and Neural Program Synthesis.
 
 Currently, I'm working as an undergraduate research intern at [Machine Learning Lab](https://mllab.snu.ac.kr), Seoul National University.
