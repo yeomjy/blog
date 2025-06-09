@@ -18,8 +18,7 @@ Jekyll site. The following is a list of targets:
 .
 ├── _config.yml
 ├── _plugins
-├── _tabs
-└── index.html
+├── _tabs └── index.html
 ```
 
 To save you time, and also in case you lose some files while copying, we extract those files/configurations of the
@@ -28,6 +27,17 @@ latest version of the **Chirpy** theme and the [CD][CD] workflow to here, so tha
 ## Usage
 
 Check out the [theme's docs](https://github.com/cotes2020/jekyll-theme-chirpy/wiki).
+
+### Local Setup
+
+For running jekyll server at local, run
+
+```
+gem install bundler 
+bundle config set --local path vendor/bundle
+bundle install
+bundle exec jekyll s
+```
 
 ## Contributing
 
