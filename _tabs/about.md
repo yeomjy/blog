@@ -4,7 +4,7 @@ icon: fas fa-info-circle
 order: 4
 ---
 
-My name is Junyoung Yeom. I'm a first-year Ph.D. student in
+My name is Junyoung Yeom. I'm a second-year Ph.D. student in
 Computer Science and Engineering at Seoul National University,
 advised by [Prof. Hyun Oh Song](https://mllab.snu.ac.kr/hyunoh).
 
